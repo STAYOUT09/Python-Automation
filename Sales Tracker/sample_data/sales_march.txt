@@ -1,0 +1,4 @@
+Alice,invalid
+Sara,400
+Ahmed,800
+Zara,550

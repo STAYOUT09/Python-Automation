@@ -1,0 +1,9 @@
+Alice,400
+Sara,500
+Ahmed,350
+Aice,700
+Sara,600
+Zara,300
+Sara,400
+Ahmed,800
+Zara,550

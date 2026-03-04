@@ -1,0 +1,4 @@
+Aice,700
+Sara,600
+Ahmed,invalid
+Zara,300
